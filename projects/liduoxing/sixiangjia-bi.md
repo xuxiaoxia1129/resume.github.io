@@ -96,37 +96,11 @@
 
 ## 看板原型交付物
 
-我用 HTML 原型把看板结构、指标层级、筛选项、下钻入口和页面布局先做成可讨论的界面。这样业务、数仓和开发可以围绕同一张页面确认口径，减少纯文档沟通里的理解偏差。以下截图来自原型 demo，页面中的数值用于说明看板结构。
+我用 HTML 原型把看板结构、指标层级、筛选项、下钻入口和页面布局先做成可讨论的界面，让业务、数仓和开发可以围绕同一张页面确认口径，减少纯文档沟通里的理解偏差。
 
-<div class="case-image-grid">
-  <figure>
-    <img src="/assets/cases/liduoxing/sixiangjia-bi/bi-overview.png" alt="私享家 BI 总览驾驶舱原型" />
-    <figcaption>
-      <strong>总览驾驶舱：把策略、客户、运营、服务放到同一屏</strong>
-      <span>管理层先看到业务核心状态，再根据策略收益、客户风险、服务互动、内容运营等模块继续下钻。</span>
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/cases/liduoxing/sixiangjia-bi/bi-strategy.png" alt="私享家 BI 策略收益分析原型" />
-    <figcaption>
-      <strong>策略收益分析：同时看收益、风险和商业表现</strong>
-      <span>策略模块承接收益率、盈利胜率、盈亏比、退款率、客户状态等指标，帮助业务判断哪些策略值得主推，哪些策略需要复盘。</span>
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/cases/liduoxing/sixiangjia-bi/bi-customer.png" alt="私享家 BI 客户分析原型" />
-    <figcaption>
-      <strong>客户分析：按价值、流转、风险、沉默四类拆客户</strong>
-      <span>把客户从单一付费人数拆成可运营的人群结构，支持定位高价值复购客户、付费迁移客户、退款投诉风险和长期未互动客户。</span>
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/cases/liduoxing/sixiangjia-bi/bi-service.png" alt="私享家 BI 客服投顾服务分析原型" />
-    <figcaption>
-      <strong>客服 / 投顾服务分析：把服务动作和客户状态接起来</strong>
-      <span>围绕服务客户数、未回复客户、群发、单聊、回复率、通话率等指标，评估服务覆盖是否到位，并为风险客户跟进提供依据。</span>
-    </figcaption>
-  </figure>
+<div class="evidence-callout">
+<span class="label">关于看板截图</span>
+<p>BI 看板涉及策略收益、客户付费、退款、服务覆盖等敏感业务数据，公开作品集不展示原始截图。以上"看板模块"和"核心指标设计"表格已完整说明各模块结构与指标体系；如需了解原型 demo 和看板细节，欢迎面试时沟通。</p>
 </div>
 
 | 交付物 | 作用 | 展示价值 |

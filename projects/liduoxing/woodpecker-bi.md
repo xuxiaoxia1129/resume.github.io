@@ -85,16 +85,6 @@
 
 ## 业务流程与看板结构
 
-<div class=”case-image-grid”>
-  <figure class=”tall-figure”>
-    <img src=”/assets/cases/liduoxing/investor-protection-bi/business-flow.png” alt=”股民保护业务流程图” />
-    <figcaption>
-      <strong>业务流程图：从多渠道获客到签约、立案和回款修正</strong>
-      <span>梳理自然流量、内部平台、销售触达和新增渠道的资源归属方式，并把 A 类客户判断、合作律师对接、签约、立案、测算、调解/法院判决、回款修正等环节串成可追踪流程。</span>
-    </figcaption>
-  </figure>
-</div>
-
 <div class=”evidence-callout”>
 <span class=”label”>关于看板截图</span>
 <p>BI 看板涉及渠道营收、签约金额、客户转化等敏感业务数据，公开作品集不展示原始截图。以上”看板模块”表格已完整说明各模块结构、核心指标和业务价值；如需进一步了解看板设计细节，欢迎面试时沟通。</p>
