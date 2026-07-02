@@ -83,58 +83,21 @@
 <p>交付股民保护 BI 看板，覆盖总览驾驶舱、渠道分析、转化漏斗等 3 个核心模块，梳理从公域曝光到签约转化的完整数据链路，明确资源、A 类客户、维权股、标的金额等关键口径。使用方为业务负责人和产品运营主管，替代原有手工维护报表，从需求梳理到看板上线约 2 周完成。</p>
 </div>
 
-## 业务流程与看板原型
+## 业务流程与看板结构
 
-这个项目的可视化展示分两层：先用业务流程图说明 <span class="text-highlight">客户从哪里来、如何判断是否符合条件、如何签约和进入后续流程</span>；再用 BI 看板承接渠道、资源、A 类客户、签约、立案、维权金额和预估营收等指标。
-
-<div class="case-image-grid">
-  <figure class="tall-figure">
-    <img src="/assets/cases/liduoxing/investor-protection-bi/business-flow.png" alt="股民保护业务流程图" />
+<div class=”case-image-grid”>
+  <figure class=”tall-figure”>
+    <img src=”/assets/cases/liduoxing/investor-protection-bi/business-flow.png” alt=”股民保护业务流程图” />
     <figcaption>
       <strong>业务流程图：从多渠道获客到签约、立案和回款修正</strong>
       <span>梳理自然流量、内部平台、销售触达和新增渠道的资源归属方式，并把 A 类客户判断、合作律师对接、签约、立案、测算、调解/法院判决、回款修正等环节串成可追踪流程。</span>
     </figcaption>
   </figure>
-  <figure>
-    <img src="/assets/cases/liduoxing/investor-protection-bi/dashboard-overview.png" alt="股民保护 BI 经营总览看板" />
-    <figcaption>
-      <strong>经营总览：核心漏斗指标一屏查看</strong>
-      <span>将进线资源、A 类资源、签约、立案、维权金额、预估营收、公域粉丝等指标放在同一屏，帮助管理层快速判断业务规模和当月变化。</span>
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/cases/liduoxing/investor-protection-bi/dashboard-channel.png" alt="股民保护 BI 渠道分析看板" />
-    <figcaption>
-      <strong>渠道分析：比较资源质量、签约效率和营收贡献</strong>
-      <span>按私域、公域、合作账号和无法溯源等渠道拆解资源量、A 类占比、签约数、签约占比、维权金额、预估营收和平均营收，支持判断渠道质量。</span>
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/cases/liduoxing/investor-protection-bi/dashboard-operation.png" alt="股民保护 BI 运营分析看板" />
-    <figcaption>
-      <strong>运营分析：从访问、登记到资源转化</strong>
-      <span>将私域访问、登记、公域曝光和资源转化放到同一套运营视角中，帮助判断不同触点是否真正带来有效资源。</span>
-    </figcaption>
-  </figure>
 </div>
 
-## 经营复盘展示
-
-<div class="case-image-grid">
-  <figure>
-    <img src="/assets/cases/liduoxing/investor-protection-bi/channel-sign-revenue.png" alt="股民保护进线资源签约与营收情况" />
-    <figcaption>
-      <strong>进线资源签约与营收情况：把渠道从“有量”拆到“有质量”</strong>
-      <span>对比资源数、A 类资源数、A 类占比、签约数、签约占比、维权总金额、预估营收、签约平均营收和资源平均营收，避免只看线索数量。</span>
-    </figcaption>
-  </figure>
-  <figure>
-    <img src="/assets/cases/liduoxing/investor-protection-bi/top-targets.png" alt="股民保护前二十大标的签约数量与维权总额" />
-    <figcaption>
-      <strong>标的分析：识别高贡献维权标的</strong>
-      <span>通过签约数量与维权总额的组合视角，判断哪些标的贡献主要业务结果，也为后续内容、投放和客户承接提供复盘方向。</span>
-    </figcaption>
-  </figure>
+<div class=”evidence-callout”>
+<span class=”label”>关于看板截图</span>
+<p>BI 看板涉及渠道营收、签约金额、客户转化等敏感业务数据，公开作品集不展示原始截图。以上”看板模块”表格已完整说明各模块结构、核心指标和业务价值；如需进一步了解看板设计细节，欢迎面试时沟通。</p>
 </div>
 
 ## 数据口径难点
