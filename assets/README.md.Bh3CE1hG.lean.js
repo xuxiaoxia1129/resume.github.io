@@ -1,0 +1,1 @@
+import{_ as a,o as l,c as e,a2 as s}from"./chunks/framework.BWuWLRhz.js";const u=JSON.parse('{"title":"许晓霞个人简历作品集站","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),t={name:"README.md"};function n(p,i,o,d,h,r){return l(),e("div",null,[...i[0]||(i[0]=[s("",22)])])}const b=a(t,[["render",n]]);export{u as __pageData,b as default};

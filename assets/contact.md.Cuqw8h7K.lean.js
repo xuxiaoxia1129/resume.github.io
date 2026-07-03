@@ -1,0 +1,1 @@
+import{_ as t,o as i,c as e,a2 as l}from"./chunks/framework.BWuWLRhz.js";const u=JSON.parse('{"title":"联系我","description":"","frontmatter":{},"headers":[],"relativePath":"contact.md","filePath":"contact.md"}'),r={name:"contact.md"};function o(n,a,c,s,_,d){return i(),e("div",null,[...a[0]||(a[0]=[l("",5)])])}const x=t(r,[["render",o]]);export{u as __pageData,x as default};
